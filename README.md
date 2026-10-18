@@ -16,26 +16,6 @@ You don't care how it works internally, you only care:
 
 ---
 
-## Real-World Analogy (BEST for Beginners)
-
-### 🍔 Restaurant Analogy
-
-| Role | Maps To |
-|------|---------|
-| You (Client) | Customer |
-| Waiter (API) | Takes order & returns food |
-| Kitchen (Backend Server) | Prepares food |
-
-You:
-- Don't enter the kitchen
-- Don't know how food is cooked
-- Just use the **menu** (API contract)
-
-> 📌 **Key line to say while teaching:**  
-> *"API is like a waiter — it connects frontend and backend without exposing internal logic."*
-
----
-
 ### 📱 Swiggy / Zomato Analogy (Very Strong)
 
 **Scenario:** You open Swiggy app and search "Biryani"
