@@ -16,7 +16,7 @@ You don't care how it works internally, you only care:
 
 ---
 
-### 📱 Swiggy / Zomato Analogy (Very Strong)
+Example: ### 📱 Swiggy / Zomato Analogy (Very Strong)
 
 **Scenario:** You open Swiggy app and search "Biryani"
 
@@ -25,7 +25,7 @@ You don't care how it works internally, you only care:
 3. Backend Services fetch restaurant data
 4. API sends response back to app
 
-**Example Request:**
+**Example Request in URL:**
 ```
 GET /restaurants?item=biryani&location=chennai
 ```
@@ -36,8 +36,7 @@ List of restaurants + price + rating
 ```
 
 > 📌 **Teaching Tip**  
-> Ask students: *"Is Swiggy app directly talking to the database?"*  
-> ❌ No → **API is in between**
+> *"Is Swiggy app directly talking to the database?"*    ❌ No → **API is in between**
 
 ---
 
